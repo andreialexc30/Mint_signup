@@ -8,4 +8,5 @@ I have used HTML, CSS and Bootstrap in order to achieve the final product that y
 The Odin Project was a great initiation for me into web developing. This challenge allowed me to learn more about forms and how they behave. I have also put time into researching proper styling in order to get the closest possible look to the real deal. This mini project has also let me experiment with Bootstrap although it was not a requirement but more of a thing that I wanted to do.
 <h3>Live version</h3>
 Available at: http://andreialexc30.github.io/Mint_signup
+<br />
 Comparison: https://mint.intuit.com/login.event?task=S
